@@ -31,6 +31,12 @@ xmlrpc.php
 /includes
 /misc
 /modules
-/profiles
 /scripts
 /themes
+
+# Ignore default profiles and editor configuration files
+/profiles/README.txt
+/profiles/minimal
+/profiles/standard
+/profiles/testing
+sftp-config.json
