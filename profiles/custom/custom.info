@@ -1,0 +1,23 @@
+name = Custom
+description = Install with commonly used features pre-configured.
+version = VERSION
+core = 7.x
+dependencies[] = block
+dependencies[] = color
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = toolbar
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+
+
